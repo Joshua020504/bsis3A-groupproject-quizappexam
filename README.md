@@ -1,16 +1,60 @@
-# groupproject
+Team Wawerz
 
-A new Flutter project.
+Terence Joshua De Vega - Docs & Testing-Polish
+Joshua Bondalo - Logic State
+Jan Alain Beguia - UI/UX
 
-## Getting Started
+Project Setup
+1. Installing Flutter
 
-This project is a starting point for a Flutter application.
+Downloaded Flutter SDK from https://flutter.dev
 
-A few resources to get you started if this is your first Flutter project:
+Installed Flutter and added it to system PATH
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Verified installation using:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter doctor
+
+2. Installing Required Tools
+
+Installed Android Studio
+
+Installed Android SDK and Emulator
+
+Installed Visual Studio Code with Flutter and Dart extensions
+
+3. Creating the Project
+
+Created a new Flutter project using:
+
+flutter create quiz_app
+
+
+Opened the project in VS Code
+
+Edited the main.dart file to build the quiz app
+
+4. Running the Application
+
+Tested the app using:
+
+flutter run
+
+5. GitHub Repository Setup
+
+Initialized Git in the project folder
+
+Added project files and committed them
+
+Created a new GitHub repository
+
+Pushed the project using:
+
+git init  
+git add .
+git commit -m "Initial commit"  
+git remote add origin <repo-link>  
+git push -u origin main
+git commit -m "Initial commit"  
+git remote add origin <repo-link>  
+git push -u origin main
