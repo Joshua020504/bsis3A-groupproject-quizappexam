@@ -1,8 +1,9 @@
 Team Wawerz
 
-Terence Joshua De Vega - Docs & Testing-Polish
-Joshua Bondalo - Logic State
-Jan Alain Beguia - UI/UX
+**Terence Joshua De Vega** - Docs & Testing-Polish, 
+**Joshua Bondalo** - Logic State, 
+**Jan Alain Beguia** - UI/UX
+
 
 Project Setup
 1. Installing Flutter
